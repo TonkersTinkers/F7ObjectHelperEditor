@@ -1,11 +1,11 @@
 # F7 Inspector Window for Unity Editor
 
-Free, open-source Unity Editor extension that lets you:
+Open-source Unity Editor extension that lets you:
 
 - Quickly select any GameObject in your scene with F7 (or via the Tools menu)
 - Pop up a dedicated, floating Inspector window showing all components and properties exactly like the built-in Inspector 
 - Remember your last window position and size across Unity sessions 
-- Store your “target” object by name once, then just hit F7 to jump right to it—no more hunting through Hierarchy during play-mode debugging
+- Store your “target” object by name once, then just hit F7 to jump right to it.
 
 ---
 
@@ -42,7 +42,7 @@ Free, open-source Unity Editor extension that lets you:
    - **Tools | F7 Inspect Target (F7)**  
    - **Tools | F7 Show Window**  
 3. Select a GameObject in your scene, then click **Tools | F7 Select F7 Object**.  
-4. Press F7 (or choose **Tools | F7 Inspect Target**) to select your object—and if **F7 Show Window** is enabled, pop up the floating inspector.
+4. Press F7 (or choose **Tools | F7 Inspect Target**) to select your object, if **F7 Show Window** is enabled, pop up the floating inspector.
 
 ---
 
@@ -102,7 +102,7 @@ Unity Editor extension, Unity custom inspector window, Unity floating inspector,
 
 ## Why Use This
 
-- Speed up debugging in complex scenes—no more manual Hierarchy searches  
+- Speed up debugging in complex scenes, minimize repetitive manual Hierarchy searches  
 - Inspect objects at runtime without opening the full Inspector panel  
 - Lightweight: single script, no overhead, free to use and modify  
 - Persistent layout: your pop-up stays where you put it, across sessions
@@ -111,7 +111,7 @@ Unity Editor extension, Unity custom inspector window, Unity floating inspector,
 
 ## License
 
-This tool is MIT Licensed—free for personal or commercial use. See LICENSE for details.
+Free for personal or commercial use. See LICENSE for details.
 
 ---
 
