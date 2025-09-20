@@ -10,7 +10,7 @@ public static class F7ObjectHelperEditor
 {
     private const string PrefKey = "F7ObjectName";
     private const string PrefKeyShowWindow = "F7SelectorShowWindow";
-    private const string StorePath = "Tools/F7 Select F7 Object";
+    private const string StorePath = "Tools/F7 Select F7 Object _%F7";
     private const string InspectPath = "Tools/F7 Inspect Target Now _F7";
     private const string ShowWindowToggle = "Tools/F7 Show Window";
 
