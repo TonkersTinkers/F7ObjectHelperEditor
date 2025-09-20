@@ -12,10 +12,13 @@ Open-source Unity Editor extension that lets you:
 ## Key Features and Benefits
 
 - Global F7 Shortcut  
-  Press F7 anywhere (edit or play mode) to select your stored GameObject and (optionally) open its properties.
+  Press F7 anywhere (edit or play mode) to quickly select your stored GameObject and (optionally) open its properties.
+
+- Global Control + F7 Shortcut
+  Press Control + F7 (edit or play mode) to quickly store which object will be selected 
 
 - Tools Menu Integration  
-  - **Tools | F7 Select F7 Object**: Store the currently selected GameObject’s name  
+  - **Tools | F7 Select F7 Object**: Store the currently selected GameObject’s name via menu or shortcut  
   - **Tools | F7 Inspect Target (F7)**: Invoke the F7 command via menu or shortcut
   - **Tools | F7 Show Window**: Toggle whether pressing F7 also opens the floating Inspector window (default = on)
 
