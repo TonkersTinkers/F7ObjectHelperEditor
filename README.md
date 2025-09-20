@@ -53,7 +53,7 @@ Open-source Unity Editor extension that lets you:
 
 1. **Storing Your Target**  
    - In the Hierarchy, select the GameObject you want to debug.  
-   - Go to **Tools | F7 Select F7 Object**.  
+   - Go to **Tools | F7 Select F7 Object** or press Control+F7.  
    - A console warning confirms the name is stored.
 
 2. **Inspecting the Target**  
